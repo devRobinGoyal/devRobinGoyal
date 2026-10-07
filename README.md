@@ -11,7 +11,7 @@
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RobinGoyal&color=00c6ff&style=for-the-badge&label=PROFILE+VIEWS)
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-FREELANCE-2ea44f?style=for-the-badge&logo=upwork&logoColor=white" />
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-FREELANCE-00c6ff?style=for-the-badge&logo=upwork&logoColor=white" />
 <img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-0f2027?style=for-the-badge&logo=vercel&logoColor=white" />
 
 </div>
@@ -52,64 +52,51 @@ const robinGoyal = {
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,rust,go,dart,php,c,cpp,html,css" />
+<p align="center"><b>Languages</b></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,rust,go,dart,php,c,cpp,html,css,sql" />
 </p>
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,vue,angular,flutter,redux,tailwind,bootstrap,sass,vite,webpack" />
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,vue,angular,flutter,redux,tailwind,bootstrap,sass,vite,webpack,figma" />
 </p>
-<img src="https://img.shields.io/badge/Context_API-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
-<img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
-<img src="https://img.shields.io/badge/Responsive_Design-38B2AC?style=flat-square&logo=css3&logoColor=white" />
 
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,graphql,redis" />
+<p align="center"><b>Backend</b></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,graphql,redis,socketio" />
 </p>
-<img src="https://img.shields.io/badge/REST_APIs-025E8C?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/OAuth-3C4043?style=flat-square&logo=auth0&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<p align="center">
+<img src="https://img.shields.io/badge/REST_APIs-00c6ff?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-00c6ff?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/OAuth-00c6ff?style=flat-square&logo=auth0&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-00c6ff?style=flat-square&logoColor=white" />
+</p>
 
-### Databases
-<p>
+<p align="center"><b>Databases</b></p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
 </p>
 
-### Cloud & DevOps
-<p>
+<p align="center"><b>Cloud &amp; DevOps</b></p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,githubactions,firebase,vercel,netlify" />
 </p>
 
-### AI
-<img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Agents-FF6F61?style=flat-square&logo=robotframework&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM_Integration-00A67E?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-6E56CF?style=flat-square&logo=probot&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-FF4785?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Vector_Databases-4C51BF?style=flat-square&logo=pinecone&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-Learning-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<p align="center"><b>AI</b></p>
+<p align="center">
+<img src="https://img.shields.io/badge/OpenAI_APIs-00c6ff?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Agents-00c6ff?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM_Integration-00c6ff?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-00c6ff?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-00c6ff?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector_Databases-00c6ff?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-Learning-00c6ff?style=flat-square&logo=langchain&logoColor=white" />
+</p>
 
-### Programming Concepts
-<img src="https://img.shields.io/badge/Data_Structures-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/Algorithms-orange?style=flat-square" />
-<img src="https://img.shields.io/badge/OOP-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Functional_Programming-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Design_Patterns-green?style=flat-square" />
-<img src="https://img.shields.io/badge/Clean_Architecture-green?style=flat-square" />
-<img src="https://img.shields.io/badge/MVC-purple?style=flat-square" />
-<img src="https://img.shields.io/badge/SOLID_Principles-purple?style=flat-square" />
-<img src="https://img.shields.io/badge/Multithreading-red?style=flat-square" />
-<img src="https://img.shields.io/badge/Async_Programming-red?style=flat-square" />
-
-### Other Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,npm,yarn,pnpm,figma,wasm" />
+<p align="center"><b>Tools</b></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,npm,yarn,pnpm,wasm" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
@@ -118,12 +105,14 @@ const robinGoyal = {
 
 I actively explore, fork, and contribute to world-class open-source projects to sharpen my craft and give back to the ecosystem I learn from.
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=rust,react,nodejs,go,flutter,angular,vue,laravel,redis" />
 </p>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" />
+<p align="center">
+<img src="https://img.shields.io/badge/React_Native-00c6ff?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.IO-00c6ff?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/WebAssembly-00c6ff?style=flat-square&logo=webassembly&logoColor=white" />
+</p>
 
 > 🍴 Forked repositories across these ecosystems represent hands-on exploration, learning, experimentation, and contribution to major projects in the community.
 
@@ -147,10 +136,12 @@ I actively explore, fork, and contribute to world-class open-source projects to 
 
 ## 📚 Currently Learning
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Advanced_RAG_Systems-FF4785?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust_Systems_Programming-000000?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/WASM_Performance-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" />
+<div align="center">
+<img src="https://img.shields.io/badge/LangChain-00c6ff?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Advanced_RAG_Systems-00c6ff?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust_Systems_Programming-00c6ff?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/WASM_Performance-00c6ff?style=for-the-badge&logo=webassembly&logoColor=white" />
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
 
@@ -174,11 +165,8 @@ I take on select freelance and consulting work across the full stack — from gr
 
 </div>
 
-<div align="center">
-
-</div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px">
+
 <div align="center">
 
 ### 💬 Random Dev Quote

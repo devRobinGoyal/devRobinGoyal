@@ -54,12 +54,12 @@ const robinGoyal = {
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,rust,go,dart,php,c,cpp,html,css,sql" />
+<img align="center" src="https://skillicons.dev/icons?i=js,ts,rust,go,dart,php,c,cpp,html,css,sql" />
 </p>
 
 <p align="center"><b>Frontend</b></p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,vue,angular,flutter,redux,tailwind,bootstrap,sass,vite,webpack,figma" />
+<img align="center" src="https://skillicons.dev/icons?i=react,vue,angular,flutter,redux,tailwind,bootstrap,sass,vite,webpack,figma" />
 </p>
 
 <p align="center"><b>Backend</b></p>
@@ -67,10 +67,10 @@ const robinGoyal = {
 <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,graphql,redis,socketio" />
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/REST_APIs-00c6ff?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-00c6ff?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/OAuth-00c6ff?style=flat-square&logo=auth0&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSockets-00c6ff?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-0f2027?style=flat-square&logoColor=00c6ff&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/JWT-0f2027?style=flat-square&logo=jsonwebtokens&logoColor=00c6ff&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/OAuth-0f2027?style=flat-square&logo=auth0&logoColor=00c6ff&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/WebSockets-0f2027?style=flat-square&logoColor=00c6ff&labelColor=0f2027" />
 </p>
 
 <p align="center"><b>Databases</b></p>
@@ -85,13 +85,13 @@ const robinGoyal = {
 
 <p align="center"><b>AI</b></p>
 <p align="center">
-<img src="https://img.shields.io/badge/OpenAI_APIs-00c6ff?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Agents-00c6ff?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM_Integration-00c6ff?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-00c6ff?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-00c6ff?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Vector_Databases-00c6ff?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-Learning-00c6ff?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_APIs-0f2027?style=flat-square&logo=openai&logoColor=00c6ff&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/AI_Agents-0f2027?style=flat-square&logoColor=00c6ff&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/LLM_Integration-0f2027?style=flat-square&logo=openai&logoColor=00c6ff&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-0f2027?style=flat-square&logoColor=00c6ff&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/RAG-0f2027?style=flat-square&logoColor=00c6ff&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/Vector_Databases-0f2027?style=flat-square&logoColor=00c6ff&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/LangChain-Learning-0f2027?style=flat-square&logo=langchain&logoColor=00c6ff&labelColor=0f2027" />
 </p>
 
 <p align="center"><b>Tools</b></p>
@@ -109,9 +109,9 @@ I actively explore, fork, and contribute to world-class open-source projects to 
 <img src="https://skillicons.dev/icons?i=rust,react,nodejs,go,flutter,angular,vue,laravel,redis" />
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/React_Native-00c6ff?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.IO-00c6ff?style=flat-square&logo=socketdotio&logoColor=white" />
-<img src="https://img.shields.io/badge/WebAssembly-00c6ff?style=flat-square&logo=webassembly&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-0f2027?style=flat-square&logo=react&logoColor=00c6ff&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/Socket.IO-0f2027?style=flat-square&logo=socketdotio&logoColor=00c6ff&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/WebAssembly-0f2027?style=flat-square&logo=webassembly&logoColor=00c6ff&labelColor=0f2027" />
 </p>
 
 > 🍴 Forked repositories across these ecosystems represent hands-on exploration, learning, experimentation, and contribution to major projects in the community.
